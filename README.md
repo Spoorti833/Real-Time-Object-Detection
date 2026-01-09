@@ -17,3 +17,5 @@ Real-time object detection system using YOLOv4 and OpenCV that captures live web
 • OpenCV
 
 • YOLO
+# 🎯 Outcome 
+Implemented real-time multi-object detection using YOLO and OpenCV, enabling fast and accurate object tracking in live video streams.
