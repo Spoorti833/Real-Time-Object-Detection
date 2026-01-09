@@ -1,19 +1,19 @@
-# Real-Time-Object-Detection
+# 📌 Real-Time-Object-Detection
 Real-time object detection system using YOLOv4 and OpenCV that captures live webcam video, detects multiple objects, and announces them using Text-to-Speech (TTS). Designed to enhance visual awareness for assistive, surveillance, and smart vision applications.
-# Features
+# ⚙️ Features
 
-Real-time video processing
+• Real-time video processing
 
-Multi-object detection
+• Multi-object detection
 
-Bounding box visualization
+• Bounding box visualization
 
-Performance optimization
+• Performance optimization
 
-# Tech Stack
+# 🛠️ Tech Stack
 
-Python
+• Python
 
-OpenCV
+• OpenCV
 
-YOLO
+• YOLO
